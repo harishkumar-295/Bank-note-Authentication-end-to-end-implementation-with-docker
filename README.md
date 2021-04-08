@@ -78,4 +78,5 @@ then run the flasgger_app.py
 streamlit run flasgger_app.py
 ```
 OUTPUT :
-![Streamlit](streamlit_bankNoteAuth.png)
+![Streamlit Bank note authentication](https://user-images.githubusercontent.com/80705710/114000625-cb586f00-9878-11eb-9c80-268a682fafa2.png)
+
