@@ -63,7 +63,8 @@ I have used flask to create a Web API
 
     -I have used flasgger for the UI `pip install flasgger`
 
-    ![UsingDocker](Flasgger bank note authentication.png)
+    ![Flasgger bank note authentication](https://user-images.githubusercontent.com/80705710/114000250-7288d680-9878-11eb-93dd-202c3c3339ea.png)
+
     
     
 ### Deploying using Streamlit 
