@@ -43,7 +43,7 @@ I have used flask to create a Web API
     ```
 3. Run the Docker container after build
     ```
-    docker run -p 8000:8000 "<app_name>"    # -p : to make the port available for the browser externally
+    docker run -p 5000:5000 "<app_name>"    # -p : to make the port available for the browser externally
     ```
 4. Check your all running container
     ```
