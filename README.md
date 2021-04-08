@@ -1,10 +1,10 @@
 # Bank-note-Authentication-end-to-end-implementation-with-docker
 
-#### Bank Note Authentication end to end implementation with Docker | Building UI with Flasgger | Deployed with Streamlit on Heroku | Flask
+#### Bank Note Authentication end to end implementation with Docker | Building UI with Flasgger | Deployed with Streamlit | Flask
 
-![image from Kaggle](https://www.neuraldesigner.com/images/banknote-authentication.jpeg)
+![image from Kaggle](https://www.google.com/imgres?imgurl=http%3A%2F%2Fwww.dream-wallpaper.com%2Ffree-wallpaper%2Fphotography-wallpaper%2Fmoney-currency-1-wallpaper%2F1600x1200%2Ffree-wallpaper-13.jpg&imgrefurl=http%3A%2F%2Fwww.dream-wallpaper.com%2Fphotography-wallpaper%2Fmoney-currency-1-wallpaper%2F1600x1200%2Ffree-wallpaper-13.html&tbnid=Kx02ubxjQajhbM&vet=12ahUKEwi5ubbSoe7vAhXZSysKHaH6AGAQMyhDegQIARBy..i&docid=SzJ-PMsbexiEDM&w=1600&h=1200&itg=1&q=currency%20wallpaper&ved=2ahUKEwi5ubbSoe7vAhXZSysKHaH6AGAQMyhDegQIARBy)
 
-[Download the data from Kaggle](https://www.kaggle.com/ritesaluja/bank-note-authentication-uci-data)
+[Dataset available on kaggle from this link.](https://www.kaggle.com/ritesaluja/bank-note-authentication-uci-data)
 
 ### About the data
 Data were extracted from images that were taken from genuine and forged banknote-like specimens. For digitization, an industrial camera usually used for print inspection was used. The final images have 400x 400 pixels. Due to the object lens and distance to the investigated object gray-scale pictures with a resolution of about 660 dpi were gained. Wavelet Transform tool were used to extract features from images.
