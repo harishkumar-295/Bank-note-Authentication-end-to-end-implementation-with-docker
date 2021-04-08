@@ -2,7 +2,7 @@
 
 #### Bank Note Authentication end to end implementation with Docker | Building UI with Flasgger | Deployed with Streamlit | Flask
 
-![image from Kaggle](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpapercave.com%2Fcurrency-wallpapers&psig=AOvVaw2y2qJGyDe_uCOO7O1qcrBZ&ust=1617958195973000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJDi846i7u8CFQAAAAAdAAAAABAD)
+![money img](https://user-images.githubusercontent.com/80705710/113998505-c2669e00-9876-11eb-82a2-8cc1d3642c96.jpg)
 
 [Dataset available on kaggle from this link.](https://www.kaggle.com/ritesaluja/bank-note-authentication-uci-data)
 
