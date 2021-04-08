@@ -2,7 +2,7 @@
 
 #### Bank Note Authentication end to end implementation with Docker | Building UI with Flasgger | Deployed with Streamlit | Flask
 
-![money img](https://user-images.githubusercontent.com/80705710/113998505-c2669e00-9876-11eb-82a2-8cc1d3642c96.jpg | width=100)
+![money img](https://user-images.githubusercontent.com/80705710/113998505-c2669e00-9876-11eb-82a2-8cc1d3642c96.jpg)
 
 [Dataset available on kaggle from this link.](https://www.kaggle.com/ritesaluja/bank-note-authentication-uci-data)
 
