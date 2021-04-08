@@ -14,7 +14,7 @@ The problem statement is quiet simple:
 as it is described in about the data section, There is a gray scale pictures of notes with a resolution of about 660 dpi.
 Wavelet Transform tool were used to extract features from images.we have four features`['Variance', 'skewness', 'curtosis', 'entropy']` and we have to predict wheather Bank Note is authentic or not.
 
-I Have used RandomForestClassifier to predict wheather the note is authetic or not as problem is not that complex, We have Cleaned data with 0 Null values.just fitted the data and predict  with 98% accuracy on test data.
+I Have used RandomForestClassifier to predict wheather the note is authetic or not as problem is not that complex, We have Cleaned data with 0 Null values.just fitted the data and predict  with 99% accuracy on test data.
 and created pcikle file .
 
 The pickle module implements a fundamental, but powerful algorithm for serializing and de-serializing a Python object structure.and additonally pickle is a binary file format
@@ -63,7 +63,7 @@ I have used flask to create a Web API
 
     -I have used flasgger for the UI `pip install flasgger`
 
-    ![UsingDocker](docker_NoteAuth.png)
+    ![UsingDocker](Flasgger bank note authentication.png)
     
     
 ### Deploying using Streamlit 
